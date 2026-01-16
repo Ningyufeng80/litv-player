@@ -1,0 +1,23 @@
+{  
+  "service": {  
+    "name": "litv-app",  
+    "status": "RUNNING",  
+    "template": "PREBUILT_V2",  
+    "createdAt": "2026-01-16T07:47:24.025Z",  
+    "domain": "litv-player.zeabur.app",  
+    "port": 8080  
+  },  
+  "deployment": {  
+    "latestDeploymentId": "696a08af8c3f077bbf919ed4",  
+    "status": "RUNNING",  
+    "startedAt": "2026-01-16T09:45:26.269Z",  
+    "finishedAt": "2026-01-16T09:46:05.205Z"  
+  },  
+  "environmentVariables": {  
+    "PORT": "8080",  
+    "PASSWORD": "1Vsnxuz7Gf5gSIiB6249LNyTU30JZaA8",  
+    "ADMIN_USER": "admin",  
+    "LITV_GENERATOR_HOST": "service-6969a53504512dd9764ebb83",  
+    "ADMIN_PASS": "123456"  
+  }  
+}  
